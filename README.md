@@ -15,10 +15,10 @@ Just clone or download this git repository to your local operating machine. To l
 
 ## Ressources
 
-[Jasmine](http://jasmine.github.io/)
-[Google Feed Reader API](http://google.com/jsapi)
-[Google Font Roboto](https://fonts.googleapis.com/css?family=Roboto:400,100,300,700)
-[jQuery](https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js)
-[Handlebars](https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.12/handlebars.min.js)
-[Icomoon](https://icomoon.io/)
-[Normalize CSS](https://necolas.github.io/normalize.css/)
+- [Jasmine](http://jasmine.github.io/)
+- [Google Feed Reader API](http://google.com/jsapi)
+- [Google Font Roboto](https://fonts.googleapis.com/css?family=Roboto:400,100,300,700)
+- [jQuery](https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js)
+- [Handlebars](https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.12/handlebars.min.js)
+- [Icomoon](https://icomoon.io/)
+- [Normalize CSS](https://necolas.github.io/normalize.css/)
