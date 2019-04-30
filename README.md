@@ -9,7 +9,7 @@ Just clone or download this git repository to your local operating machine. To l
 ## About the tests
 
 - RSS Feeds: The first test checks whether the feed contains at least a name and a functional URL that can be provided by using the allFeeds variable.
-- The menu: The second test checks if the menu is hidden by default and changes visibility when clicked using the menu-hidden class.
+- The Menu: The second test checks if the menu is hidden by default and changes visibility when clicked using the menu-hidden class.
 - Initial Entries: The third test checks whether the feed consists of at least one entry after loading by using the asynchronous function loadFeed(0).
 - New Feed Selection: The fourth test checks whether the content has changed after loading a new feed by using the asynchronous loadFeed(1) function.
 
