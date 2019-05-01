@@ -51,7 +51,7 @@ $(function() {
              // Checks if each feed has a name
              expect(feed.name).toBeDefined();
              // Checks if name has a reasonable size
-             expect(feed.name).not.toBe(0);
+             expect(feed.name.length).not.toBe(0);
            });
          });
     });
@@ -102,7 +102,7 @@ $(function() {
          // Run test after completion of loadFeed
          it("have at least a count of one", function (done) {
            // Create variable for feed entrys
-           const entry = document.querySelector(".entry, .feed");
+           const entry = document.querySelector(".feed.entry");
            // Number of entries should be > 0
            expect(entry.length).not.toBe(0);
            done();
