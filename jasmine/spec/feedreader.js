@@ -102,7 +102,7 @@ $(function() {
          // Run test after completion of loadFeed
          it("have at least a count of one", function (done) {
            // Create variable for feed entrys
-           const entry = document.querySelector(".feed.entry");
+           const entry = document.querySelector(".feed .entry");
            // Number of entries should be > 0
            expect(entry.length).not.toBe(0);
            done();
